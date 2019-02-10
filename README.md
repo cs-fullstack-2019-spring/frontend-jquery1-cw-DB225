@@ -1,3 +1,6 @@
+### Points: 1
+### KEY: Ex 1 didn't process clicks, and ex 2 did not function
+
 # Introduction to jQuery Graded Classwork
 
 ## Use only jQuery to select elements, and jQuery 
